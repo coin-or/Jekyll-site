@@ -2,8 +2,7 @@
 title: "2025 COIN-OR Cup Award: NVIDIA cuOpt"
 date: 2025-10-26
 author: Matthew Saltzman
-# Theme preview only: drafts are not built on GitHub Pages. View with `bundle exec jekyll serve --drafts`
-# at /2025/10/26/theme-preview/. Delete once real posts have been converted.
+# Published only on the Jekyll-site preview (gh-pages branch) to show the post layout.
 ---
 
 The 2025 COIN-OR Cup Committee (Daniel Bienstock, Haihao Lu, and Jinwen Yang) has released the following announcement:
